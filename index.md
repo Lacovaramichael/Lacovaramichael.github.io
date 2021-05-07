@@ -4,7 +4,7 @@
 
 ### Classification Projects 
 
-[Diabetes Detection](/sample_page)
+[Diabetes Detection](/https://github.com/Lacovaramichael/Diabetes-Detection)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
