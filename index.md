@@ -5,7 +5,7 @@
 ### Classification Projects 
 
 [Diabetes Detection](/https://lacovaramichael.github.io/Diabetes-Detection/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="https://github.com/Lacovaramichael/Diabetes-Detection/blob/main/Images/SVM.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
