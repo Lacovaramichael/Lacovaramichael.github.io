@@ -6,7 +6,7 @@
 
 [Diabetes Detection](https://lacovaramichael.github.io/Diabetes-Detection/)
 <img src="images/Diabetes Percent.PNG?raw=true" width=350/>
-<img src="https://github.com/Lacovaramichael/Diabetes-Detection/blob/main/images/Diabetes%20Histogram.PNG" width=350/>
+<img src="images/Diabetes Histogram.PNG?raw=true" width=350/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
